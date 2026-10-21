@@ -90,7 +90,7 @@ Troque 192.168.0.15 pelo IP real do seu computador. Se o celular não conectar, 
 | DELETE /api/conteudos/:id/imagem | Login | Remove só a imagem |
 | DELETE /api/conteudos/:id | Login | Exclui um conteúdo |
 
-## Estrutura para explicar o código
+## Estrutura
 
 - App.js: monta o menu e as telas.
 - context/AuthContext.js: mantém o usuário e o token enquanto o app está aberto.
