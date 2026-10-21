@@ -68,7 +68,7 @@ EXPO_PUBLIC_API_URL=http://192.168.0.15:3000/api
 
 Troque 192.168.0.15 pelo IP real do seu computador. Se o celular não conectar, permita a porta 3000 no Firewall do Windows para a rede privada. Reinicie o Expo depois de mudar .env.
 
-## Como apresentar
+## Apresentação
 
 1. Abra o app sem entrar e mostre o catálogo e a pesquisa.
 2. Use **Entrar → Criar conta**; depois do cadastro, o app inicia a sessão.
